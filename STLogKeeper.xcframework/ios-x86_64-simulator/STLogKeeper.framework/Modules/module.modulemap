@@ -1,0 +1,6 @@
+framework module STLogKeeper {
+    umbrella header "STLogKeeper.h"
+
+    export *
+    module * { export * }
+}
